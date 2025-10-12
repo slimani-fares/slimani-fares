@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SLIMANI Fares</h1>
-<h3 align="center">An AI & Data science student from France</h3>
+<h3 align="center">A Computer student student from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fares22devs-projects.vercel.app/](https://portfolio-fares22devs-projects.vercel.app/)
 
-- 📫 How to reach me **f.slimani.bro@gmail.com**
+- 📫 How to reach me **f.slimani.pro@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf](https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf)
 
