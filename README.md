@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SLIMANI Fares</h1>
-<h3 align="center">An AI & Data science student from Algeria</h3>
+<h3 align="center">An AI & Data science student from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fares22devs-projects.vercel.app/](https://portfolio-fares22devs-projects.vercel.app/)
 
