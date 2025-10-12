@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-fares22devs-projects.vercel.app/](https://portfolio-fares22devs-projects.vercel.app/)
 
-- 📫 How to reach me **f.slimani@gmail.com**
+- 📫 How to reach me **f.slimani.bro@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf](https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf)
 
