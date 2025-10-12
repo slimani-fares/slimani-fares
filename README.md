@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **f.slimani.pro@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf](https://github.com/slimani-fares/Curriculum-vitae/raw/main/my-cv.pdf)
+- 📄 Know about my experiences [https://github.com/slimani-fares/Curriculum-vitae/raw/main/cv-data.pdf](https://github.com/slimani-fares/Curriculum-vitae/raw/main/cv-data.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
