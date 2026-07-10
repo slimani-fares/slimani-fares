@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares</h1>
-<h3 align="center">A Computer science student from France 🇫🇷</h3>
+<h3 align="center">An Ai Master student based in Lille, France 🇫🇷</h3>
 
 - 👨‍💻 Check out my : [portfolio](https://slimani-fares.github.io/portfolio/)
 
